@@ -1,7 +1,7 @@
 # Socket_Tcp_Udp
  Repositorio creado para la realización del trabajo práctico de programación de capa de transporte de redes de datos.
 
-#### Explicación:
+ Explicación:
 - TCP (orientado a la conexión):
     - Servidor TCP: Escucha en el puerto 12345 y acepta conexiones de los clientes. Una vez conectado un cliente, el servidor envía la hora actual y el número de conexiones realizadas.
     - Cliente TCP: Se conecta al servidor en localhost:12345 y recibe la información enviada por el servidor.
